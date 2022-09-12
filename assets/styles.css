@@ -1,0 +1,8 @@
+body {
+  background-color: #F8EBE9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1440px;
+  max-height: 700px;
+}
